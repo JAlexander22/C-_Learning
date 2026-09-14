@@ -1,6 +1,16 @@
 # .NET build output
-bin/
-obj/
+Week_1/HelloWorld/bin/
+Week_1/HelloWorld/obj/
+
+Week_1/Maths/bin/
+Week_1/Maths/obj/
+
+Week_1/Strings/bin/
+Week_1/Strings/obj/
+
+
+Week_1/Variables/bin/
+Week_1/Variables/obj/
 
 # Visual Studio
 .vs/
