@@ -1,0 +1,15 @@
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\HelloWorld\bin\Debug\net10.0\HelloWorld.exe
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\HelloWorld\bin\Debug\net10.0\HelloWorld.deps.json
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\HelloWorld\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\HelloWorld\bin\Debug\net10.0\HelloWorld.dll
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\HelloWorld\bin\Debug\net10.0\HelloWorld.pdb
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\HelloWorld\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\HelloWorld\obj\Debug\net10.0\HelloWorld.sourcelink.json
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\HelloWorld\obj\Debug\net10.0\HelloWorld.dll
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dll
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll
