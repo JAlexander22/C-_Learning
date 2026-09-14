@@ -1,6 +1,6 @@
 ﻿//Console.WriteLine("Hello, World!");
 
-// WriteLine and Write: WriteLine creates a new line
+// WriteLine and Write: WriteLine creates a new line, Write appends the same line
 
 Console.WriteLine("This is your first line.");
 Console.Write("This is ");
