@@ -27,4 +27,3 @@ decimal celsius = ((decimal)fahrenheit - 32) * 5 / 9;
 Console.WriteLine (celsius);
 
 
-Console.Write("Windows " + 1 + 1);

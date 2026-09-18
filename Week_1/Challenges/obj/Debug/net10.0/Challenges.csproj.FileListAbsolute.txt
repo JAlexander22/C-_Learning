@@ -1,0 +1,15 @@
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Challenges\obj\Debug\net10.0\Challenges.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Challenges\obj\Debug\net10.0\Challenges.AssemblyInfoInputs.cache
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Challenges\obj\Debug\net10.0\Challenges.AssemblyInfo.cs
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Challenges\obj\Debug\net10.0\Challenges.csproj.CoreCompileInputs.cache
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Challenges\obj\Debug\net10.0\Challenges.sourcelink.json
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Challenges\bin\Debug\net10.0\Challenges.exe
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Challenges\bin\Debug\net10.0\Challenges.deps.json
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Challenges\bin\Debug\net10.0\Challenges.runtimeconfig.json
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Challenges\bin\Debug\net10.0\Challenges.dll
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Challenges\bin\Debug\net10.0\Challenges.pdb
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Challenges\obj\Debug\net10.0\Challenges.dll
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Challenges\obj\Debug\net10.0\refint\Challenges.dll
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Challenges\obj\Debug\net10.0\Challenges.pdb
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Challenges\obj\Debug\net10.0\Challenges.genruntimeconfig.cache
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Challenges\obj\Debug\net10.0\ref\Challenges.dll

@@ -1,0 +1,15 @@
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Week_1_CheckPoint\bin\Debug\net10.0\Week_1_CheckPoint.exe
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Week_1_CheckPoint\bin\Debug\net10.0\Week_1_CheckPoint.deps.json
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Week_1_CheckPoint\bin\Debug\net10.0\Week_1_CheckPoint.runtimeconfig.json
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Week_1_CheckPoint\bin\Debug\net10.0\Week_1_CheckPoint.dll
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Week_1_CheckPoint\bin\Debug\net10.0\Week_1_CheckPoint.pdb
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Week_1_CheckPoint\obj\Debug\net10.0\Week_1_CheckPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Week_1_CheckPoint\obj\Debug\net10.0\Week_1_CheckPoint.AssemblyInfoInputs.cache
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Week_1_CheckPoint\obj\Debug\net10.0\Week_1_CheckPoint.AssemblyInfo.cs
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Week_1_CheckPoint\obj\Debug\net10.0\Week_1_CheckPoint.csproj.CoreCompileInputs.cache
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Week_1_CheckPoint\obj\Debug\net10.0\Week_1_CheckPoint.sourcelink.json
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Week_1_CheckPoint\obj\Debug\net10.0\Week_1_CheckPoint.dll
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Week_1_CheckPoint\obj\Debug\net10.0\refint\Week_1_CheckPoint.dll
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Week_1_CheckPoint\obj\Debug\net10.0\Week_1_CheckPoint.pdb
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Week_1_CheckPoint\obj\Debug\net10.0\Week_1_CheckPoint.genruntimeconfig.cache
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Week_1_CheckPoint\obj\Debug\net10.0\ref\Week_1_CheckPoint.dll

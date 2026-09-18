@@ -1,0 +1,15 @@
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Projects\Calculate_Final_GPA\obj\Debug\net10.0\Calculate_Final_GPA.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Projects\Calculate_Final_GPA\obj\Debug\net10.0\Calculate_Final_GPA.AssemblyInfoInputs.cache
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Projects\Calculate_Final_GPA\obj\Debug\net10.0\Calculate_Final_GPA.AssemblyInfo.cs
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Projects\Calculate_Final_GPA\obj\Debug\net10.0\Calculate_Final_GPA.csproj.CoreCompileInputs.cache
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Projects\Calculate_Final_GPA\obj\Debug\net10.0\Calculate_Final_GPA.sourcelink.json
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Projects\Calculate_Final_GPA\bin\Debug\net10.0\Calculate_Final_GPA.exe
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Projects\Calculate_Final_GPA\bin\Debug\net10.0\Calculate_Final_GPA.deps.json
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Projects\Calculate_Final_GPA\bin\Debug\net10.0\Calculate_Final_GPA.runtimeconfig.json
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Projects\Calculate_Final_GPA\bin\Debug\net10.0\Calculate_Final_GPA.dll
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Projects\Calculate_Final_GPA\bin\Debug\net10.0\Calculate_Final_GPA.pdb
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Projects\Calculate_Final_GPA\obj\Debug\net10.0\Calculate_Final_GPA.dll
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Projects\Calculate_Final_GPA\obj\Debug\net10.0\refint\Calculate_Final_GPA.dll
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Projects\Calculate_Final_GPA\obj\Debug\net10.0\Calculate_Final_GPA.pdb
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Projects\Calculate_Final_GPA\obj\Debug\net10.0\Calculate_Final_GPA.genruntimeconfig.cache
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Projects\Calculate_Final_GPA\obj\Debug\net10.0\ref\Calculate_Final_GPA.dll

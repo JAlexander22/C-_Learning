@@ -1,0 +1,15 @@
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Claude_Project_Challenge\bin\Debug\net10.0\Claude_Project_Challenge.exe
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Claude_Project_Challenge\bin\Debug\net10.0\Claude_Project_Challenge.deps.json
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Claude_Project_Challenge\bin\Debug\net10.0\Claude_Project_Challenge.runtimeconfig.json
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Claude_Project_Challenge\bin\Debug\net10.0\Claude_Project_Challenge.dll
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Claude_Project_Challenge\bin\Debug\net10.0\Claude_Project_Challenge.pdb
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Claude_Project_Challenge\obj\Debug\net10.0\Claude_Project_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Claude_Project_Challenge\obj\Debug\net10.0\Claude_Project_Challenge.AssemblyInfoInputs.cache
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Claude_Project_Challenge\obj\Debug\net10.0\Claude_Project_Challenge.AssemblyInfo.cs
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Claude_Project_Challenge\obj\Debug\net10.0\Claude_Project_Challenge.csproj.CoreCompileInputs.cache
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Claude_Project_Challenge\obj\Debug\net10.0\Claude_Project_Challenge.sourcelink.json
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Claude_Project_Challenge\obj\Debug\net10.0\Claude_Project_Challenge.dll
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Claude_Project_Challenge\obj\Debug\net10.0\refint\Claude_Project_Challenge.dll
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Claude_Project_Challenge\obj\Debug\net10.0\Claude_Project_Challenge.pdb
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Claude_Project_Challenge\obj\Debug\net10.0\Claude_Project_Challenge.genruntimeconfig.cache
+D:\DevOpsSoftware\C#_Unity\C#\Week_1\Claude_Project_Challenge\obj\Debug\net10.0\ref\Claude_Project_Challenge.dll
