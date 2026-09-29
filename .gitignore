@@ -1,19 +1,7 @@
 # .NET build output
-Week_1/HelloWorld/bin/
-Week_1/HelloWorld/obj/
+**/bin/
+**/obj/
 
-Week_1/Maths/bin/
-Week_1/Maths/obj/
-
-Week_1/Strings/bin/
-Week_1/Strings/obj/
-
-
-Week_1/Variables/bin/
-Week_1/Variables/obj/
-
-Week_1/Projects/Calculate_Grades/bin/
-Week_1/Projects/Calculate_Grades/obj/
 
 # Visual Studio
 .vs/
